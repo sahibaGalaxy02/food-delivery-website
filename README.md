@@ -6,7 +6,7 @@ This project simulates a real-world food ordering platform with a clean UI, smoo
 ---
 
 ## 🚀 Live Preview
-👉 (Add live link here after deployment)
+👉 (https://food-delivery-website-ruby-two.vercel.app/)
 
 ---
 
@@ -31,6 +31,7 @@ This project simulates a real-world food ordering platform with a clean UI, smoo
 - **JavaScript (Vanilla JS)**
 - **Font Awesome**
 - **Google Fonts**
+
 
 
 
