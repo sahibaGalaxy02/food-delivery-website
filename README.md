@@ -28,9 +28,9 @@ This project simulates a real-world food ordering platform with a clean UI, smoo
 
 - **HTML5**
 - **CSS3**
-- **JavaScript (Vanilla JS)**
 - **Font Awesome**
 - **Google Fonts**
+
 
 
 
