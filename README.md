@@ -1,11 +1,11 @@
 # 🍔 Food Delivery Website
 
-A modern and responsive **Food Delivery Website** built using **HTML, CSS, and JavaScript**.  
+A modern and responsive **Food Delivery Website** built using **HTML, CSS, and JavaScript**.
 This project simulates a real-world food ordering platform with a clean UI, smooth user experience, and essential features like sign-in, cart, reviews, and contact sections.
 
 ---
 
-## 🚀 Live Preview here 👇👇
+## 🚀 Live Project Preview here 👇👇
 👉 (https://food-delivery-website-ruby-two.vercel.app/)
 
 ---
@@ -30,6 +30,7 @@ This project simulates a real-world food ordering platform with a clean UI, smoo
 - **CSS3**
 - **Font Awesome**
 - **Google Fonts**
+
 
 
 
