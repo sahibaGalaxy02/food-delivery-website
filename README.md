@@ -17,7 +17,7 @@ This project simulates a real-world food ordering platform with a clean UI, smoo
 - 🛒 Dynamic cart counter
 - ⭐ Customer reviews & testimonials
 - 🤝 Partner platforms section (Zomato, Blinkit, Hyperpure)
-- 📞 Contact form
+- 📞 login form
 - 🔐 Sign In & Login pages
 - 📱 Fully responsive design
 - 🎨 Modern UI inspired by real food apps
@@ -30,6 +30,7 @@ This project simulates a real-world food ordering platform with a clean UI, smoo
 - **CSS3**
 - **Font Awesome**
 - **Google Fonts**
+
 
 
 
