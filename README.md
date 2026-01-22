@@ -10,7 +10,7 @@ This project simulates a real-world food ordering platform with a clean UI, smoo
 
 ---
 
-## ✨ Features
+## ✨Features
 
 - 🏠 Beautiful landing page (Hero section)
 - 🍕 Food menu with **Add to Cart** functionality
@@ -30,6 +30,7 @@ This project simulates a real-world food ordering platform with a clean UI, smoo
 - **CSS3**
 - **Font Awesome**
 - **Google Fonts**
+
 
 
 
